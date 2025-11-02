@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">TryLsModule</string>
+    <string name="app_name">App Launch Toast</string>
+    <string name="xposed_description">在任意应用启动时显示Toast消息</string>
 </resources>
